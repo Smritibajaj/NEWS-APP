@@ -22,8 +22,20 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Technical Stack Used
 
 1. Design - Tailwind CSS 
-2. Framework - Next JS
+2. Framework - Next JS + React Query
 3. Deployment - Vercel, Docker
+
+## Why Next JS
+
+Next.js is a popular React framework known for its powerful features and benefits that can make web development more efficient and scalable. Here are the reason i used next js.
+1. Server-Side Rendering (SSR) and Static Site Generation (SSG)
+2. Automatic Code Splitting
+3. Hot Reloading: 
+
+
+## Why React Query 
+
+React Query is a popular data-fetching and state management library for React applications. It requrires fast load with small package so I opted react query instead of redux.
 
 ## Deploy on Vercel
 
